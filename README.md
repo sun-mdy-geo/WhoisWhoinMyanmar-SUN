@@ -1,2 +1,1 @@
-# WhoisWhoinMyanmar-SUN
-Who is Who in Myanmar
+You can view a detailed pdf file in Readme.md.pdf. 
