@@ -1,4 +1,4 @@
-              A PROJECT REPORT ON
+                     A PROJECT REPORT ON
 #                   Who is Who in Myanmar
                           FOR
                     Geo Mandalar IT
@@ -118,24 +118,24 @@ A web page is a document that is suitable for the World Wide Web and web browser
 <p>•   PC with windows OS</p>
 <p><strong>2.3 Project Plan</strong></p>
 <p>In understanding the system requirements and testing some features, we work together. UI/UX, Developer, testing and documentation, we work together. User Access Level/ Access to Pages, project Manager and System Analysis are discussed about the systems to understand the user.</p>
-<pre><code>                        CHAPTER 4
+<pre><code>                        CHAPTER 3
                  EVALUATION AND CONCLUSION
 </code></pre>
-<p><strong>4.1   Conclusion</strong></p>
+<p><strong>3.1   Conclusion</strong></p>
 <p>The app provide a great convenience for all users. Users could get all information that they are interested in at once without moving from site to site.</p>
 <p>All people who are famous in Myanmar are collected and presented in the app. In which app including common facts about celebrities, writers, business men and also even politicians.</p>
 <p>The app’s contents are human readable form and navigate you to the information store you want to know. It can be accessed from both mobile phones and computers with internet access. Moreover, up to date people’s news are provided for users at any given time.</p>
-<p><strong>4.2 Advantages of the Project</strong></p>
+<p><strong>3.2 Advantages of the Project</strong></p>
 <p>The proposed system offers the following advantages:</p>
 <p>•   It provides “faster and better” services to visitors.</p>
 <p>•   This is helpful in assessing what’s in progress, what has written, the writing style, how it was structured, research methods, and which reference were used.</p>
 <p>•   User can satisfy because they can search not only thesis title but also by year, supervisor name.</p>
 <p>•   Assisting postgraduate students to write.</p>
 <p>•   Provide facility for proper monitoring, reduces paper work and provide data security.</p>
-<p><strong>4.3 Disadvantages</strong></p>
+<p><strong>3.3 Disadvantages</strong></p>
 <p>•   The cost of computer hardware and software programs can be expensive.</p>
 <p>•   As mobile tablets use wireless network, they can disconnect with network if Wi Fi fails.</p>
-<p><strong>4.4   Further Extensions</strong></p>
+<p><strong>3.4   Further Extensions</strong></p>
 <p>This application has incompleteness from various view-points. But if it is continuously developed with experts, current needs will be covered shortly, then the effectiveness will approve its property. Various functionalities can be embedded within the application.</p>
 <p><strong>References</strong></p>
 <p>•   https://www.codecademy.com/learn/learn-the-command-line</p>
