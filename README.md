@@ -1,8 +1,8 @@
-#               A PROJECT REPORT ON
+              A PROJECT REPORT ON
 #                   Who is Who in Myanmar
- *                          FOR
- *                    Geo Mandalar IT
- *                 SUBMITTED IN PARALLEL
+                          FOR
+                    Geo Mandalar IT
+                  SUBMITTED IN PARALLEL
                  FULLFILLMENT OF INTERNSHIP
                         PROJECT
                   UNDER THE GUIDANCE OF
