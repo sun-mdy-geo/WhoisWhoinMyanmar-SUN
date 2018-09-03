@@ -63,7 +63,7 @@ This could lead to save times and costs for the people who interested about  Mya
 # DECLARATION
 
 <p>We declare that this project report or part of it was not a copy of a document done by other organization, university any other institute or a previous student’s project group at University of Computer Studies (Mandalay).</p>
-**Project Details**
+**Project_Details**
 <p>Project Title _ Who is Who in Myanmar</p>
 <p>Project ID _ Geo Mandalar IT Internship</p>
 <pre><code>
@@ -107,7 +107,7 @@ A web page is a document that is suitable for the World Wide Web and web browser
 
 *   View Help
 <pre><code>                         CHAPTER 2
-                          MEHDOLOGY
+                         MEHDOLOGY
 </code></pre>
 <p><strong>2.1 Requirement Analysis</strong></p>
 <p>The description of the services and constraints are the requirements for the system. Requirement analysis is the process of deriving the system requirements through observation of existing system, discussions with potential users and procurers, task analysis.</p>
