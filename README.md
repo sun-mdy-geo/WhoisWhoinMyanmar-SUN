@@ -26,7 +26,7 @@
 <p>Declaration</p>
 <p>List of Figures</p>
 <p>List of Tables</p>
- CHAPTER 1       INTRODUCTION<br>
+ CHAPTER 1       INTRODUCTION<br><br>
 1.1         Introduction<br>
 1.2         Background<br>
 1.2.1   Development Life Cycle<br>
@@ -34,11 +34,11 @@
 1.2.3   What is a Database  ?<br>
 1.3         Objectives of the project<br>
 1.4         Scope of Proposed System<br>
- CHAPTER 2        METHDOLOGY<br>
+ CHAPTER 2        METHDOLOGY<br><br>
 2.1         Requirements Analysis<br>
 2.2         Software Selection<br>
 2.3         Project Plan<br>
- CHAPTER 3        EVALUATION AND CONCLUSION<br>
+ CHAPTER 3        EVALUATION AND CONCLUSION<br><br>
 3.1        Conclusion<br>
 3.2        Advantages of the project<br>
 3.3        Disadvantages of the project<br>
