@@ -19,51 +19,53 @@
                      Ma Ei Ei Linn
           University of Computer Studies (Mandalay)
                           4.9.2018
-			  
-#CONTENTS
+
+# CONTENTS
+
 <p>Abstract</p>
 <p>Acknowledgement</p>
 <p>Declaration</p>
 <p>List of Figures</p>
 <p>List of Tables</p>
-<p>CHAPTER 1       INTRODUCTION<br>
+# CHAPTER 1       INTRODUCTION<br><br>
 1.1         Introduction<br>
 1.2         Background<br>
 1.2.1   Development Life Cycle<br>
 1.2.2   What is Flask ?<br>
 1.2.3   What is a Database  ?<br>
 1.3         Objectives of the project<br>
-1.4         Scope of Proposed System</p>
-<p>CHAPTER 2        METHDOLOGY<br>
+1.4         Scope of Proposed System<br><br>
+ CHAPTER 2        METHDOLOGY<br><br>
 2.1         Requirements Analysis<br>
 2.2         Software Selection<br>
-2.3         Project Plan</p>
-<p>CHAPTER 3        EVALUATION AND CONCLUSION<br>
+2.3         Project Plan<br><br>
+ CHAPTER 3        EVALUATION AND CONCLUSION<br><br>
 3.1        Conclusion<br>
 3.2        Advantages of the project<br>
 3.3        Disadvantages of the project<br>
-3.4        Limitations and Future Work</p>
+3.4        Limitations and Future Work<br>
 <p>References</p>
-
-#ABSTRACT
+#	        ABSTRACT
 
 <p>The country of Myanmar is sometime known as Burma, and the two names are often confuse. It consists of 14 provinces: 7 states representing the areas of 7 main ethnic races and 7 divisions. The purpose of project is to know readily and inexpensively about Myanmar’s people such as Parliament, Writers, Directors, Actors and Singers.</p>
 <p>On our websites, you can read the information contained on the page, and if there are any interesting hyperlinks, you can follow those links to find more information or to perform a task.
 This could lead to save times and costs for the people who interested about  Myanmar’s people.</p>
 <p>For admin Panel, admins can insert, data into database, delete and retrieve data for database. Users can use our system with both smart phones and computers. For Front End, the system was implemented using material design (HTML, CSS). For Back End, this system was implemented using JavaScript and jQuery. The project will be implemented using Flask with Python and deploy on Heroku (CLI).</p>
 
-#ACKNOWLEDGEMENT
+#	ACKNOWLEDGEMENT
 
 <p>I would like to deeply thanks my supervisor, Dr. Lwin Mar Thin, Associdate Professor, Hardware Technology Department, University of Computer Studies (Mandalay), for her helpful advice and close guidance throughout this project.</p>
 <p>Then respectfully thanks to U Ravi Chhabra, CEO of Geo Mandalar IT Co.Ltd, for his invaluable suggestions, patient comments and detailed technical contribution.</p>
 <p>I also thank all my teachers from University of Computer Studies (Mandalay), especially, our rector U Kyaw Zwa Soe , our pro-rector Dr. San San Tin and our teacher Dr. Aye Aye Chaw. I would like to gratefully thank my friends and my dearest parents who have always given great help and support through my life.</p>
-<pre><code>                         DECLARATION
+<pre><code>
+		 DECLARATION
 </code></pre>
 <p>We declare that this project report or part of it was not a copy of a document done by other organization, university any other institute or a previous student’s project group at University of Computer Studies (Mandalay).</p>
 <p>Project Details</p>
 <p>Project Title _ Who is Who in Myanmar</p>
 <p>Project ID _ Geo Mandalar IT Internship</p>
-<pre><code>                        Chapter 1
+<pre><code>
+			Chapter 1
                       Introduction
 </code></pre>
 <p>1.1    Introduction<br>
