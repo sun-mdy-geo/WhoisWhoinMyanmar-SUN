@@ -58,10 +58,10 @@ This could lead to save times and costs for the people who interested about  Mya
 <p>I would like to deeply thanks my supervisor, Dr. Lwin Mar Thin, Associdate Professor, Hardware Technology Department, University of Computer Studies (Mandalay), for her helpful advice and close guidance throughout this project.</p>
 <p>Then respectfully thanks to U Ravi Chhabra, CEO of Geo Mandalar IT Co.Ltd, for his invaluable suggestions, patient comments and detailed technical contribution.</p>
 <p>I also thank all my teachers from University of Computer Studies (Mandalay), especially, our rector U Kyaw Zwa Soe , our pro-rector Dr. San San Tin and our teacher Dr. Aye Aye Chaw. I would like to gratefully thank my friends and my dearest parents who have always given great help and support through my life.</p>
-<pre><code>
+
 
 # DECLARATION
-</code></pre>
+
 <p>We declare that this project report or part of it was not a copy of a document done by other organization, university any other institute or a previous student’s project group at University of Computer Studies (Mandalay).</p>
 <p>Project Details</p>
 <p>Project Title _ Who is Who in Myanmar</p>
@@ -107,7 +107,7 @@ A web page is a document that is suitable for the World Wide Web and web browser
 
 *   View Help
 <pre><code>                         CHAPTER 2
-                              MEHDOLOGY
+                        MEHDOLOGY
 </code></pre>
 <p><strong>2.1 Requirement Analysis</strong></p>
 <p>The description of the services and constraints are the requirements for the system. Requirement analysis is the process of deriving the system requirements through observation of existing system, discussions with potential users and procurers, task analysis.</p>
@@ -132,7 +132,7 @@ A web page is a document that is suitable for the World Wide Web and web browser
 <p><strong>2.3 Project Plan</strong></p>
 <p>In understanding the system requirements and testing some features, we work together. UI/UX, Developer, testing and documentation, we work together. User Access Level/ Access to Pages, project Manager and System Analysis are discussed about the systems to understand the user.</p>
 <pre><code>                        CHAPTER 3
-                   EVALUATION AND CONCLUSION
+               EVALUATION AND CONCLUSION
 </code></pre>
 <p><strong>3.1   Conclusion</strong></p>
 <p>The app provide a great convenience for all users. Users could get all information that they are interested in at once without moving from site to site.</p>
