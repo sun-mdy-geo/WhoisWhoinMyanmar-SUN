@@ -1,5 +1,5 @@
-                     A PROJECT REPORT ON
-#                   Who is Who in Myanmar
+                   A PROJECT REPORT ON
+#                    Who is Who in Myanmar
                           FOR
                     Geo Mandalar IT
                   SUBMITTED IN PARALLEL
@@ -33,7 +33,7 @@
 1.2.2   What is Flask ?<br>
 1.2.3   What is a Database  ?<br>
 1.3         Objectives of the project<br>
-1.4         Scope of Proposed</p>
+1.4         Scope of Proposed System</p>
 <p>CHAPTER 2        METHDOLOGY<br>
 2.1         Requirements Analysis<br>
 2.2         Software Selection<br>
