@@ -45,6 +45,7 @@
 3.3        Disadvantages of the project<br>
 3.4        Limitations and Future Work<br>
 <p>References</p>
+
 # ABSTRACT
 
 <p>The country of Myanmar is sometime known as Burma, and the two names are often confuse. It consists of 14 provinces: 7 states representing the areas of 7 main ethnic races and 7 divisions. The purpose of project is to know readily and inexpensively about Myanmar’s people such as Parliament, Writers, Directors, Actors and Singers.</p>
@@ -58,6 +59,7 @@ This could lead to save times and costs for the people who interested about  Mya
 <p>Then respectfully thanks to U Ravi Chhabra, CEO of Geo Mandalar IT Co.Ltd, for his invaluable suggestions, patient comments and detailed technical contribution.</p>
 <p>I also thank all my teachers from University of Computer Studies (Mandalay), especially, our rector U Kyaw Zwa Soe , our pro-rector Dr. San San Tin and our teacher Dr. Aye Aye Chaw. I would like to gratefully thank my friends and my dearest parents who have always given great help and support through my life.</p>
 <pre><code>
+
 # DECLARATION
 
 </code></pre>
@@ -91,6 +93,7 @@ A web page is a document that is suitable for the World Wide Web and web browser
 <p>•To save times and costs</p>
 <p><strong>1.4 Scope of Proposed System</strong></p>
 <p>The proposed project of Who is Who in Myanmar is prescribed as follow; Manage Home, Political, Writer, Director, Actor, Singer, Help, Features, methodology and FAQ.</p>
+
 *   View Home
 
 *   View Political
@@ -105,7 +108,7 @@ A web page is a document that is suitable for the World Wide Web and web browser
 
 *   View Help
 <pre><code>                         CHAPTER 2
-                         MEHDOLOGY
+                                    MEHDOLOGY
 </code></pre>
 <p><strong>2.1 Requirement Analysis</strong></p>
 <p>The description of the services and constraints are the requirements for the system. Requirement analysis is the process of deriving the system requirements through observation of existing system, discussions with potential users and procurers, task analysis.</p>
@@ -130,7 +133,7 @@ A web page is a document that is suitable for the World Wide Web and web browser
 <p><strong>2.3 Project Plan</strong></p>
 <p>In understanding the system requirements and testing some features, we work together. UI/UX, Developer, testing and documentation, we work together. User Access Level/ Access to Pages, project Manager and System Analysis are discussed about the systems to understand the user.</p>
 <pre><code>                        CHAPTER 3
-                 EVALUATION AND CONCLUSION
+                          EVALUATION AND CONCLUSION
 </code></pre>
 <p><strong>3.1   Conclusion</strong></p>
 <p>The app provide a great convenience for all users. Users could get all information that they are interested in at once without moving from site to site.</p>
