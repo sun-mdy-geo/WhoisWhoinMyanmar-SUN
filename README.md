@@ -19,7 +19,7 @@
                      Ma Ei Ei Linn
           University of Computer Studies (Mandalay)
                           4.9.2018
-</code></pre>
+			  
 #CONTENTS
 <p>Abstract</p>
 <p>Acknowledgement</p>
@@ -44,15 +44,16 @@
 3.3        Disadvantages of the project<br>
 3.4        Limitations and Future Work</p>
 <p>References</p>
-<pre><code>
+
 #ABSTRACT
-</code></pre>
+
 <p>The country of Myanmar is sometime known as Burma, and the two names are often confuse. It consists of 14 provinces: 7 states representing the areas of 7 main ethnic races and 7 divisions. The purpose of project is to know readily and inexpensively about Myanmar’s people such as Parliament, Writers, Directors, Actors and Singers.</p>
 <p>On our websites, you can read the information contained on the page, and if there are any interesting hyperlinks, you can follow those links to find more information or to perform a task.
 This could lead to save times and costs for the people who interested about  Myanmar’s people.</p>
 <p>For admin Panel, admins can insert, data into database, delete and retrieve data for database. Users can use our system with both smart phones and computers. For Front End, the system was implemented using material design (HTML, CSS). For Back End, this system was implemented using JavaScript and jQuery. The project will be implemented using Flask with Python and deploy on Heroku (CLI).</p>
-#<pre><code>                   ACKNOWLEDGEMENT
-</code></pre>
+
+#ACKNOWLEDGEMENT
+
 <p>I would like to deeply thanks my supervisor, Dr. Lwin Mar Thin, Associdate Professor, Hardware Technology Department, University of Computer Studies (Mandalay), for her helpful advice and close guidance throughout this project.</p>
 <p>Then respectfully thanks to U Ravi Chhabra, CEO of Geo Mandalar IT Co.Ltd, for his invaluable suggestions, patient comments and detailed technical contribution.</p>
 <p>I also thank all my teachers from University of Computer Studies (Mandalay), especially, our rector U Kyaw Zwa Soe , our pro-rector Dr. San San Tin and our teacher Dr. Aye Aye Chaw. I would like to gratefully thank my friends and my dearest parents who have always given great help and support through my life.</p>
@@ -87,13 +88,13 @@ A web page is a document that is suitable for the World Wide Web and web browser
 <p>•To save times and costs</p>
 <p><strong>1.4 Scope of Proposed System</strong></p>
 <p>The proposed project of Who is Who in Myanmar is prescribed as follow; Manage Home, Political, Writer, Director, Actor, Singer, Help, Features, methodology and FAQ.</p>
-*<p>   View Home</p>
-*<p>   View Political</p>
-*<p>   View Writer</p>
-*<p>   View Director</p>
-*<p>   View Actor</p>
-*<p>   View Singer</p>
-*<p>   View Help</p>
+*   View Home
+*   View Political
+*   View Writer
+*   View Director
+*   View Actor
+*   View Singer
+*   View Help
 <pre><code>                         CHAPTER 2
                          MEHDOLOGY
 </code></pre>
