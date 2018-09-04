@@ -25,8 +25,7 @@
 <p>Abstract</p>
 <p>Acknowledgement</p>
 <p>Declaration</p>
-<p>List of Figures</p>
-<p>List of Tables</p>
+
  CHAPTER 1       INTRODUCTION<br><br>
 1.1         Introduction<br>
 1.2         Background<br>
